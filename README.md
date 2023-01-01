@@ -15,7 +15,7 @@
 
 ### Sponsors
 
-You can support this project or present clothes to Niel.
+You can support this project or present clothes to Niel. Please tell me your profile link when you support this project.
 
 #### Users
 
