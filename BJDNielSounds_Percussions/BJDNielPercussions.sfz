@@ -1,0 +1,18 @@
+<control> default_path=BJDNielPercussions\
+<global> ampeg_attack=.03 ampeg_release==.2 ampeg_dynamic=1 volume=0
+<group> fil_type=lpf_2p fil2_type=hpf_2p cutoff=12000 cutoff2=30 resonance=6 resonance2=3 eq1_freq=75 eq1_gain=3 eq2_freq=450 eq2_gain=-9 eq3_freq=700 eq3_gain=6.3 eq4_freq=3250 eq4_gain=6.3 eq5_freq=10000 eq5_gain=3 trigger=attack loop_mode=no_loop
+<region> sample=KickStompTray.wav key=12 gain=-4
+<region> sample=KickStompPrinter.wav key=14 gain=-14
+<region> sample=KickStompDesk.wav key=16 gain=-14
+<region> sample=UkeSpike.wav key=13 gain=4
+<region> sample=TapDance.wav key=15 gain=-12
+<region> sample=Clap.wav key=17 gain=-5 pan=-30
+<region> sample=Clap.wav key=19 gain=-5 pan=30
+<region> sample=Clap.wav key=21 gain=-6 pan=-50
+<region> sample=Clap.wav key=23 gain=-6 pan=50
+<region> sample=JointStretch.wav key=18 gain=-3
+<region> sample=Chew.wav key=20 gain=-3
+<region> sample=RhythmRing.wav key=22 gain=-15
+<region> sample=WaistNutLeft.wav key=25 gain=-11
+<region> sample=WaistNutRight.wav key=27 gain=-13
+
