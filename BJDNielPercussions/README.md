@@ -30,7 +30,7 @@ Only simple panning applied to the **Hydrogen drumkit**. You can set up FX effec
 
 ## Usage
 
-Download `BJDNielPercussions` ZIP archive on Releases, unzip where you want, then import:
+Download `BJDNielPercussions` TAR.GZ archive on Releases, unzip where you want, then import:
 
 - SFZ Pack: `BJDNielPercussions.sfz`
   - MD5: `133b7e7ab01ea64ded7e2ad8baea4cef`
