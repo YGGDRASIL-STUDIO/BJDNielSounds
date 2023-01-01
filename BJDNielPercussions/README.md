@@ -18,7 +18,7 @@ All sound samples are **24bit**, **192Kbps WAV** format.
 
 ### SFZ Pack
 
-**SFZ Pack** is set with a simple Pre-EQ, and using common drum map key range. With compressor and reverb touch from 100 velocities, its sounds will close to the volume of -12dBFS.
+**SFZ Pack** is set with a simple Pre-EQ, and binding common drum map key range. With compressor and reverb touch from 100 velocities, its sounds will close to the volume of -12dBFS.
 
 >There is no big difference with volumes between drum notes, so you must sprinkle salt for living sounds.
 
