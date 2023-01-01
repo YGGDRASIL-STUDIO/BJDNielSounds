@@ -1,18 +1,18 @@
 <control> default_path=BJDNielPercussions\
 <global> ampeg_attack=.03 ampeg_release==.2 ampeg_dynamic=1 volume=0
 <group> fil_type=lpf_2p fil2_type=hpf_2p cutoff=12000 cutoff2=30 resonance=6 resonance2=3 eq1_freq=75 eq1_gain=3 eq2_freq=450 eq2_gain=-9 eq3_freq=700 eq3_gain=6.3 eq4_freq=3250 eq4_gain=6.3 eq5_freq=10000 eq5_gain=3 trigger=attack loop_mode=no_loop
-<region> sample=KickStompTray.wav key=12 gain=-4
-<region> sample=KickStompPrinter.wav key=14 gain=-14
-<region> sample=KickStompDesk.wav key=16 gain=-14
-<region> sample=UkeSpike.wav key=13 gain=4
-<region> sample=TapDance.wav key=15 gain=-12
-<region> sample=Clap.wav key=17 gain=-5 pan=-30
-<region> sample=Clap.wav key=19 gain=-5 pan=30
-<region> sample=Clap.wav key=21 gain=-6 pan=-50
-<region> sample=Clap.wav key=23 gain=-6 pan=50
-<region> sample=JointStretch.wav key=18 gain=-3
-<region> sample=Chew.wav key=20 gain=-3
-<region> sample=RhythmRing.wav key=22 gain=-15
-<region> sample=WaistNutLeft.wav key=25 gain=-11
-<region> sample=WaistNutRight.wav key=27 gain=-13
+<region> sample=KickStompTray.wav md5=6b7a4f86fd45979ac14d9a824de8dd8 key=12 gain=-4
+<region> sample=KickStompPrinter.wav md5=a2778ff7ef875aecee9afc9ab44e5f6a key=14 gain=-14
+<region> sample=KickStompDesk.wav md5=813960c401ecba03ae6408cbd98ce5d9 key=16 gain=-14
+<region> sample=UkeSpike.wav md5=a9cc037d6e357a40fce36d0840f9c2c4 key=13 gain=4
+<region> sample=TapDance.wav md5=62a73b0bbbefd113ec974775e44b3ac6 key=15 gain=-12
+<region> sample=Clap.wav key=17 md5=c39c02cd5ccc9ff2c71edfaf38b6cfce pan=-30 gain=-5
+<region> sample=Clap.wav key=19 md5=c39c02cd5ccc9ff2c71edfaf38b6cfce pan=30 gain=-5
+<region> sample=Clap.wav key=21 md5=c39c02cd5ccc9ff2c71edfaf38b6cfce pan=-50 gain=-6
+<region> sample=Clap.wav key=23 md5=c39c02cd5ccc9ff2c71edfaf38b6cfce pan=50 gain=-6
+<region> sample=JointStretch.wav md5=c87ff2fd02f096ab5991fbb9e92833d2 key=18 gain=-3
+<region> sample=Chew.wav md5=6f2c8b0ee1d139fdd9493f2175b51370 key=20 gain=-3
+<region> sample=RhythmRing.wav md5=0468d5359a6f40f725342daa37df2e86 key=22 gain=-15
+<region> sample=WaistNutLeft.wav md5=c5b445e5ec9d25f8b903b4c51d1b3ee9 key=25 gain=-11
+<region> sample=WaistNutRight.wav md5=f1294c51aa9aba68b673cfb381f50337 key=27 gain=-13
 

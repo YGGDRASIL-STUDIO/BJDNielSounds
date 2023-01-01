@@ -33,8 +33,11 @@ Only simple panning applied to the **Hydrogen drumkit**. You can set up FX effec
 Download `BJDNielPercussions` ZIP archive on Releases, unzip where you want, then import:
 
 - SFZ Pack: `BJDNielPercussions.sfz`
+ - MD5: `133b7e7ab01ea64ded7e2ad8baea4cef`
 - MusE Drum Map: `BJDNielPercussions.map.gz`
+ - MD5: `60a2ba76f0ee84714444bbb9d342660f`
 - Hydrogen Drumkit: `BJDNielPercussions.h2drumkit`
+ - MD5: `f1b882aaf1e8926749d9b7b05dd1da01`
 
 ## Made in Korea, Republic of.
 
