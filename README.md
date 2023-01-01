@@ -7,7 +7,7 @@
 ## Instruments
 
 - BJDNielKalimba - 8-key Kalimba soundfont for SF2 synths, it also contains tremolo Kalimba bank.
-- [BJDNielPercussions](https://github.com/YGGDRASIL-STUDIO/BJDNielSounds/BJDNielPercussions) - Percussion Pack for SFZ synths and Hydrogen drum machine.
+- [BJDNielPercussions](https://github.com/YGGDRASIL-STUDIO/BJDNielSounds/BJDNielSounds_percussions) - Percussion Pack for SFZ synths and Hydrogen drum machine.
 - BJDNielRajiao - To Bass-Tone retouched soundfont for SF2 synths based on Miniature Ukulele sounds.
 - BJDNielGorgon - Loop samples for sound sampler, and soundfont for SF2 synths.
 
