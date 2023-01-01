@@ -13,6 +13,10 @@
 
 >Not just samples, all instruments are **ready to use**.
 
+### Sponsors
+
+You can support this project or present clothes to Niel.
+
 #### Users
 
 Please tell me where you used BJDNielSounds.
