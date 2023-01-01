@@ -35,4 +35,4 @@ Please tell me where you used BJDNielSounds.
 - [ ] Publish on Myspace
 - [ ] Publish on SoundCloud
 
-_BJDNielSounds © 2023 by Yi Yunseok is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Made with ♥ and Niel, proudly hosted on GitHub._
+_BJDNielSounds :copyright: 2023 by Yi Yunseok is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Made with :heart: and Niel, proudly hosted on GitHub._
