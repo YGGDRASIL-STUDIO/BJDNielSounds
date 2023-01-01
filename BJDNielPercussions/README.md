@@ -10,7 +10,7 @@ _Continue in the next chapter..._
 
 ## Specification
 
-**BJDNielPercussions** contains some percussion sound samples such as kick stomps, joint, claps, uke spike, nutshell waistband, and finger shaker.
+**BJDNielPercussions** contains some percussion sound samples such as kick stomps, joint, claps, uke spike, nutshell waistband, and hand shaker.
 
 This virtual drum instrument is available with **[SFZ](https://sfzformat.com/) synths** and **[Hydrogen](http://hydrogen-music.org/) drum machine**, and **[MusE](https://muse-sequencer.github.io/) Drum Map**.
 
