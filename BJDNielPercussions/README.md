@@ -4,7 +4,7 @@
 
 >_After **Jeanne d'Arc** passed, lonely girl **Niel** decides to leave the village. Because she has four arms, peoples constantly harassed her._
 > 
->_On the last night, even the moon is hidden in the clouds, she cried, and smashed her rajão, finally burned the village. In the burning flames, the villager muttered, watching her leaving with the lamp, **"That bitch is a cursed witch."**_
+>_On the last night, even the moon is hidden in the clouds, she cried, and smashed her **rajão**, finally burned the village. In the burning flames, the villager muttered, watching her leaving with the lamp, **"That bitch is a cursed witch."**_
 
 _Continue in the next chapter..._
 
