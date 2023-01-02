@@ -52,7 +52,7 @@ Download `BJDNielPercussions.tar.gz` archive on Releases, unzip where you want, 
 - GrindMonkey Custom MiniUke, XZT trays, EasyDrawing ED22, Desk
 - Raspberry Pi, PiSound, Behringer Micro series and Monitor1
 - Audio-Technica AT2035, OneOdio Pro-50, iPhone 12 Mini
-- [RasPiOS](https://www.raspberrypi.com/software/), [Audacity](https://www.audacityteam.org/), [Cava](https://github.com/karlstav/cava), [dir2hydrogen](https://github.com/freqrush/dir2hydrogen), [Xed](https://github.com/linuxmint/xed), [GIMP](https://www.gimp.org/)
+- [RasPiOS](https://www.raspberrypi.com/software/), [Audacity](https://www.audacityteam.org/), [Cava](https://github.com/karlstav/cava), [Xed](https://github.com/linuxmint/xed), [GIMP](https://www.gimp.org/)
 
 ###### Tested With
 
