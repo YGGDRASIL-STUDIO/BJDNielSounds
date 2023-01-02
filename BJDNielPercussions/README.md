@@ -1,6 +1,7 @@
 # BJDNielPercussions
 
 ![BJDNielPercussions](https://github.com/YGGDRASIL-STUDIO/BJDNielSounds/blob/main/images/BJDNielPercussions.png)
+_Doll Kitchen Toy Old Image by [Stefan Schweihofer](https://pixabay.com/users/stux-12364/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=546613)</a> from [Pixabay](https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=546613)._
 
 **BJDNielPercussions** is one of the **BJDNielSounds** collection created with BJD **Niel**, a witch, session player and psychotherapist for GoldRock.
 
@@ -58,6 +59,5 @@ Download `BJDNielPercussions.tar.gz` archive on Releases, unzip where you want, 
 - [Hydrogen](http://hydrogen-music.org/), [MusE](https://muse-sequencer.github.io/), [sfizz](https://sfz.tools/sfizz/), [Ardour](https://ardour.org/), [Waveform11](https://www.tracktion.com/products/waveform-pro)
 - [ACE plugins](https://manual.ardour.org/plugins-filters/), [DAW Essential Collection](https://www.tracktion.com/products/daw-essentials-collection), [EasySSP](https://au.tomatl.org/), [Fil-plugins](https://directory.fsf.org/wiki/FIL-Plugins), [FreeVerb](https://ccrma.stanford.edu/~jos/pasp/Freeverb.html), [OmniCompressor](https://plugins.iem.at/), [Zita-rev1](https://github.com/PelleJuul/zita-rev1)
 
-_Doll Kitchen Toy Old Image by [Stefan Schweihofer](https://pixabay.com/users/stux-12364/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=546613)</a> from [Pixabay](https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=546613)._
 _BJDNielSounds :copyright: 2023 by Yi Yunseok is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Made with :heart: and Niel, proudly hosted on GitHub._
 
