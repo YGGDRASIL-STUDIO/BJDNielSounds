@@ -2,6 +2,8 @@
 
 **BJDNielPercussions** is one of the **BJDNielSounds** collection created with BJD **Niel**, a witch, session player and psychotherapist for GoldRock.
 
+![BJDNielPercussions](https://github.com/YGGDRASIL-STUDIO/BJDNielSounds/images/BJDNielPercussions.png)
+
 >_After **Jeanne d'Arc** passed, lonely girl **Niel** decides to leave the village. Because she has four arms, peoples constantly harassed her._
 > 
 >_On the last night, even the moon is hidden in the clouds, she cried, and smashed her **rajão**, finally burned the village. In the burning flames, the villager muttered, watching her leaving with the lamp, **"That bitch is a cursed witch."**_
@@ -30,14 +32,14 @@ Only simple panning applied to the **Hydrogen drumkit**. You can set up FX effec
 
 ## Usage
 
-Download `BJDNielPercussions` TAR.GZ archive on Releases, unzip where you want, then import:
+Download `BJDNielPercussions.tar.gz` archive on Releases, unzip where you want, then import:
 
 - SFZ Pack: `BJDNielPercussions.sfz`
   - MD5: `133b7e7ab01ea64ded7e2ad8baea4cef`
 - MusE Drum Map: `BJDNielPercussions.map.gz`
   - MD5: `60a2ba76f0ee84714444bbb9d342660f`
 - Hydrogen Drumkit: `BJDNielPercussions.h2drumkit`
-  - MD5: `f1b882aaf1e8926749d9b7b05dd1da01`
+  - MD5: `88ed455cfcb1ee4386dec8fda7f5d261`
 
 ## Made in Korea, Republic of.
 
@@ -55,6 +57,8 @@ Download `BJDNielPercussions` TAR.GZ archive on Releases, unzip where you want, 
 - M-Vave SMK-25
 - [Hydrogen](http://hydrogen-music.org/), [MusE](https://muse-sequencer.github.io/), [sfizz](https://sfz.tools/sfizz/), [Ardour](https://ardour.org/), [Waveform11](https://www.tracktion.com/products/waveform-pro)
 - [ACE plugins](https://manual.ardour.org/plugins-filters/), [DAW Essential Collection](https://www.tracktion.com/products/daw-essentials-collection), [EasySSP](https://au.tomatl.org/), [Fil-plugins](https://directory.fsf.org/wiki/FIL-Plugins), [FreeVerb](https://ccrma.stanford.edu/~jos/pasp/Freeverb.html), [OmniCompressor](https://plugins.iem.at/), [Zita-rev1](https://github.com/PelleJuul/zita-rev1)
+
+_Doll Kitchen Toy Old Image by [Stefan Schweihofer](https://pixabay.com/users/stux-12364/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=546613)</a> from [Pixabay](https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=546613)._
 
 _BJDNielSounds :copyright: 2023 by Yi Yunseok is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Made with :heart: and Niel, proudly hosted on GitHub._
 
