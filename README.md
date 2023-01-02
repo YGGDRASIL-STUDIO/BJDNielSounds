@@ -21,7 +21,7 @@ You can support this project or present clothes to Niel. Please tell me your pro
 
 Please tell me where you used BJDNielSounds.
 
-##### Get your Niel
+##### Get BJD Niel
 
 Please visit here if you want your **[Niel](https://s.click.aliexpress.com/e/_oDj63f7)**.
 
