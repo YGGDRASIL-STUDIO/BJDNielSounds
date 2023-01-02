@@ -1,5 +1,7 @@
 # BJDNielSounds
 
+![BJDNielSounds](https://github.com/YGGDRASIL-STUDIO/BJDNielSounds/blob/main/images/BJDNielSounds.png)
+
 **BJDNielSounds** is an sound collection created with BJD(Ball-Jointed Doll) **Niel**, a witch, session player and psychotherapist for GoldRock.
 
 >_Please look forward to the completion of the story._
