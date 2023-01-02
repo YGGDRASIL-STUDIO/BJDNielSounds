@@ -15,11 +15,15 @@
 
 ### Sponsors
 
-You can support this project or present clothes to Niel. Please tell me your profile link when you support this project. Please visit here if you want your **[Niel](https://s.click.aliexpress.com/e/_oDj63f7)**.
+You can support this project or present clothes to Niel. Please tell me your profile link when you support this project.
 
 #### Users
 
 Please tell me where you used BJDNielSounds.
+
+##### Get your Niel
+
+Please visit here if you want your **[Niel](https://s.click.aliexpress.com/e/_oDj63f7)**.
 
 ###### TODO
 
