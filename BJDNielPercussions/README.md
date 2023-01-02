@@ -1,8 +1,8 @@
 # BJDNielPercussions
 
-**BJDNielPercussions** is one of the **BJDNielSounds** collection created with BJD **Niel**, a witch, session player and psychotherapist for GoldRock.
-
 ![BJDNielPercussions](https://github.com/YGGDRASIL-STUDIO/BJDNielSounds/blob/main/images/BJDNielPercussions.png)
+
+**BJDNielPercussions** is one of the **BJDNielSounds** collection created with BJD **Niel**, a witch, session player and psychotherapist for GoldRock.
 
 >_After **Jeanne d'Arc** passed, lonely girl **Niel** decides to leave the village. Because she has four arms, peoples constantly harassed her._
 > 
