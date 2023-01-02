@@ -41,7 +41,7 @@ Download `BJDNielPercussions.tar.gz` archive on Releases, unzip where you want, 
 - MusE Drum Map: `BJDNielPercussions.map.gz`
   - MD5: `60a2ba76f0ee84714444bbb9d342660f`
 - Hydrogen Drumkit: `BJDNielPercussions.h2drumkit`
-  - MD5: `88ed455cfcb1ee4386dec8fda7f5d261`
+  - MD5: `a6091d46e652082638dabd87fa48efc4`
 
 ## Made in Korea, Republic of.
 
