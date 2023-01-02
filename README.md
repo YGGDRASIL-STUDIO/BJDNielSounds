@@ -15,7 +15,7 @@
 
 ### Sponsors
 
-You can support this project or present clothes to Niel. Please tell me your profile link when you support this project.
+You can support this project or present clothes to Niel. Please tell me your profile link when you support this project. Please visit here if you want your **[Niel](https://s.click.aliexpress.com/e/_oDj63f7)**.
 
 #### Users
 
@@ -35,4 +35,4 @@ Please tell me where you used BJDNielSounds.
 - [ ] Publish on Myspace
 - [ ] Publish on SoundCloud
 
-_BJDNielSounds :copyright: 2023 by Yi Yunseok is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Made with :heart: and Niel, proudly hosted on GitHub._
+_BJDNielSounds :copyright: 2023 by Yi Yunseok is licensed under **[CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)**. Made with :heart: and **[Niel](https://s.click.aliexpress.com/e/_oDj63f7)**, proudly hosted on **[GitHub](https://github.com/)**._
