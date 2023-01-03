@@ -10,9 +10,9 @@
 
 **BJDNielKalimba** contains 2-bank SoundFont including kalimba and tremolo kalimba.
 
-This virtual kalimba instrument is available with **[SF2](https://sfzformat.com/) synths**. All sound samples are **24bit**, **192Kbps WAV** format.
+This virtual kalimba instrument is available with **[SF2](https://sfzformat.com/) synths**.
 
-Simple panning applied on the each notes.
+All sound samples are **24bit**, **192Kbps WAV** format. Simple panning applied on the each notes.
 
 ## Usage
 
