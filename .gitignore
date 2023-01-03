@@ -1,8 +1,8 @@
 *.map.gz
 *.h2drumkit
+*.sf2
 *.sh
 *.pl
 *.tar.gz
 *.md5
 *.xcf
-BJDNielKalimba/*
