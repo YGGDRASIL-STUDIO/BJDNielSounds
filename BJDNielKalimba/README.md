@@ -33,5 +33,5 @@ All sound samples are **24bit**, **192Kbps WAV** format. Simple panning applied 
 - M-Vave SMK-25
 - [Ardour](https://ardour.org/), [ACE plugins](https://manual.ardour.org/plugins-filters/), [EasySSP](https://au.tomatl.org/)
 
-_BJDNielSounds :copyright: 2023 by Yi Yunseok is licensed under **[CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)**. Made with :heart: and [Niel](https://s.click.aliexpress.com/e/_oDj63f7), proudly hosted on **[GitHub](https://github.com/)**._
+_BJDNielSounds :copyright: 2023 by Yi Yunseok is licensed under **[CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)**. Made with :heart: and **[Niel](https://s.click.aliexpress.com/e/_oDj63f7)**, proudly hosted on **[GitHub](https://github.com/)**._
 
