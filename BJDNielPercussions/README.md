@@ -34,14 +34,11 @@ Only simple panning applied to the **Hydrogen drumkit**. You can set up FX effec
 
 ## Usage
 
-Download `BJDNielPercussions.tar.gz` archive on Releases, unzip where you want, then import:
+Download `BJDNielPercussions.tar.gz` archive on Releases, extract where you want, then import:
 
 - SFZ Pack: `BJDNielPercussions.sfz`
-  - MD5: `133b7e7ab01ea64ded7e2ad8baea4cef`
 - MusE Drum Map: `BJDNielPercussions.map.gz`
-  - MD5: `60a2ba76f0ee84714444bbb9d342660f`
 - Hydrogen Drumkit: `BJDNielPercussions.h2drumkit`
-  - MD5: `a6091d46e652082638dabd87fa48efc4`
 
 ## Made in Korea, Republic of.
 
@@ -51,8 +48,8 @@ Download `BJDNielPercussions.tar.gz` archive on Releases, unzip where you want, 
 - Rhythm Ring(NAMM Show 2010), African Dora Fruit Nutshell Handbell
 - GrindMonkey Custom MiniUke, XZT trays, EasyDrawing ED22, Desk
 - Raspberry Pi, PiSound, Behringer Micro series and Monitor1
-- Musicus B-free2.0, Audio-Technica AT2035, OneOdio Pro-50, iPhone 12 Mini
-- [RasPiOS](https://www.raspberrypi.com/software/), [Audacity](https://www.audacityteam.org/), [Cava](https://github.com/karlstav/cava), [dir2hydrogen](https://github.com/freqrush/dir2hydrogen), [Xed](https://github.com/linuxmint/xed), [GIMP](https://www.gimp.org/)
+- Musicus B-free2.0, Audio-Technica AT2035, OneOdio Pro-50
+- [RasPiOS](https://www.raspberrypi.com/software/), [Audacity](https://www.audacityteam.org/), [Cava](https://github.com/karlstav/cava), [dir2hydrogen](https://github.com/freqrush/dir2hydrogen), [Xed](https://github.com/linuxmint/xed)
 
 ###### Tested With
 
