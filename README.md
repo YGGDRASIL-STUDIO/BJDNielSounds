@@ -32,7 +32,7 @@ Please visit here if you want your **[Niel](https://s.click.aliexpress.com/e/_oD
 - [ ] BJDNielGorgon
 - [x] BJDNielKalimba
 - [x] BJDNielPercussions
-- [ ] BJDNielRajiao
+- [x] BJDNielRajiao
 - [ ] GitHub Page
 - [ ] Publish on itch
 - [ ] Publish on Polyphone
