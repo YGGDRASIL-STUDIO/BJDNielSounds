@@ -6,7 +6,7 @@
 
 >_This is the story of **Niel**, a witch, who defeated **Gorgon** and protected the **Poet's Village**._
 >
->_A long long time ago, a child was born in the eyes of the storm. The child was abandoned in a village from her parents, and the **Tracey**, the only one that she was believed he is a dad, he raised her with devotion. He named the her **Niel**._
+>_A long long time ago, a baby was born in the eyes of the storm. The baby was abandoned in a village from her parents, and the **Tracey**, the only one that she was believed he is a dad, he raised her with devotion. He named the her **Niel**._
 >
 >_However, because born with four arms, Niel was different from other childs. So Tracey made a lot of efforts to avoid being discriminated against. Fortunately, thanks to his efforts, Niel was a bright and happy child. The villagers also seemed to like her._
 >
