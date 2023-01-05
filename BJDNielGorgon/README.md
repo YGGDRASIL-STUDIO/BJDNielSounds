@@ -6,7 +6,7 @@
 
 >_The **Poet's Village**, it was a strange village where her foot arrived. This village, where humans and dwarves, elves, gnomes, goblins, trolls, and other various races live. Finally she found a place where she could settle down. She laughed, and talked with the villagers. Drinking..., singing..., she was happy._
 >
->_But one day, dangerous monster **Gorgon** invaded the village. Niel turned on the lamps at the entrance of the village and desperately defense Gorgon. The lamps was thrown on the ground, and Niel lost her arms. But she did not give up, she fought with Gorgon for the villagers, and herself. Finally, Gorgon fell to Niels magic._
+>_But one day, dangerous monster **Gorgon** invaded the village. Niel turned on the lamps at the entrance of the village and desperately defense Gorgon. The lamps was thrown on the ground, and Niel lost her arms. But she did not give up, she fought with Gorgon for the villagers, and herself. Finally, Gorgon fell to Niel's magic._
 >
 >_**-The End-**_
 
