@@ -22,7 +22,7 @@ This instrument was made from one sound sample with **24bit**, **192Kbps WAV** f
 ##### Working With
 
 - **Niel** and Yi Yunseok
-- GrindMonkey Custom Miniature ukulele, D'Addario Nyltech String
+- GrindMonkey Custom MiniUke, D'Addario Nyltech String
 - Raspberry Pi, PiSound, Behringer Micro series and Monitor1
 - Musicus B-free2.0, Audio-Technica AT2035, OneOdio Pro-50
 - [RasPiOS](https://www.raspberrypi.com/software/), [Audacity](https://www.audacityteam.org/), [Cava](https://github.com/karlstav/cava), [Polyphone](https://www.polyphone-soundfonts.com/)
