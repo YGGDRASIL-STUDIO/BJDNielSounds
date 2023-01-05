@@ -4,6 +4,12 @@
 
 **BJDNielKalimba** is one of the **BJDNielSounds** collection created with BJD **Niel**, a witch, session player and psychotherapist for GoldRock.
 
+>_The villagers have changed their attitudes about **Niel** since **Tracey** began to get sick. As slowly, little by little. But after **Jeanne** comes to the village to take care of the Tracey, the villagers do kind to Niel again._
+>
+>_Niel realized that people's kindness is not for her. But she didn't think anything. Because her father is dying, she did her best to take care of her father with Jeanne._
+>
+>_But, despite their efforts, the father eventually passed away._
+
 _[Continue in the next chapter...](https://github.com/YGGDRASIL-STUDIO/BJDNielSounds/tree/main/BJDNielRajiao)_
 
 ## Specification
