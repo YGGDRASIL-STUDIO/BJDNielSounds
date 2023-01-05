@@ -37,7 +37,7 @@ Please visit here if you want your **[Niel](https://s.click.aliexpress.com/e/_oD
 
 ###### TODO
 
-- [x] BJDNielGorgon
+- [ ] BJDNielGorgon
 - [x] BJDNielKalimba
 - [x] BJDNielPercussions
 - [x] BJDNielRajiao
