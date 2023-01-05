@@ -4,7 +4,7 @@
 
 **BJDNielKalimba** is one of the **BJDNielSounds** collection created with BJD **Niel**, a witch, session player and psychotherapist for GoldRock.
 
->_Please look forward to the completion of the story._
+_[Continue in the next chapter...](https://github.com/YGGDRASIL-STUDIO/BJDNielSounds/tree/main/BJDNielBJDNielRajiao)_
 
 ## Specification
 

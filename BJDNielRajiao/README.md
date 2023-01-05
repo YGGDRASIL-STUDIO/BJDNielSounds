@@ -4,15 +4,14 @@
 
 **BJDNielRajiao** is one of the **BJDNielSounds** collection created with BJD **Niel**, a witch, session player and psychotherapist for GoldRock.
 
->_Please look forward to the completion of the story._
+_[Continue in the next chapter...](https://github.com/YGGDRASIL-STUDIO/BJDNielSounds/tree/main/BJDNielPercussions)_
 
 ## Specification
 
-**BJDNielRajiao** is a 4-String Arp-Bass SoundFont based on Miniature Ukulele. This virtual instrument is available with **[SF2 synths](https://www.fluidsynth.org/)**.
+**BJDNielRajiao** is a 4-String Arp-Bass SoundFont based on Miniature Ukulele. This virtual instrument is available with **[SF2 synths](https://www.fluidsynth.org/)**. Note this is **not an actual rajão** instrument.
 
 This instrument was made from one sound sample with **24bit**, **192Kbps WAV** format.
 
-Note this is not an actual rajão instrument.
 
 ## Usage
 

@@ -10,7 +10,7 @@ _Doll Kitchen Toy Old Image by [Stefan Schweihofer](https://pixabay.com/users/st
 > 
 >_On the last night, even the moon is hidden in the clouds, she cried, and smashed her **rajão**, finally burned the village. In the burning flames, the villager muttered, watching her leaving with the lamp, **"That bitch is a cursed witch."**_
 
-_Continue in the next chapter..._
+_[Continue in the next chapter...](https://github.com/YGGDRASIL-STUDIO/BJDNielSounds/tree/main/BJDNielGorgon)_
 
 ## Specification
 

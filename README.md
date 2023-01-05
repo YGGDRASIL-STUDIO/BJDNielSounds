@@ -4,14 +4,22 @@
 
 **BJDNielSounds** is an sound collection created with BJD(Ball-Jointed Doll) **Niel**, a witch, session player and psychotherapist for GoldRock.
 
->_Please look forward to the completion of the story._
+>_This is the story of **Niel**, a witch, who defeated **Gorgon** and protected the Poet's Village._
+>
+>_A long long time ago, a child was born in the eyes of the storm. The child was abandoned in a village from her parents, and the **Tracey**, the only one that she was believed he is a dad, he raised her with devotion. He named the child's name **Niel**._
+>
+>_However, because born with four arms, Niel was different from other childs. So Tracey made a lot of efforts to avoid being discriminated against. Fortunately, thanks to his efforts, Niel was a bright and happy child. The villagers also seemed to like her._
+>
+>_By the time she became a naughty girl, Tracey taught her astrology and flame magic spells, self-defense techniques, some instruments._
+
+_[Continue in the next chapter...](https://github.com/YGGDRASIL-STUDIO/BJDNielSounds/tree/main/BJDNielKalimba)_
 
 ## Instruments
 
 - [BJDNielKalimba](https://github.com/YGGDRASIL-STUDIO/BJDNielSounds/tree/main/BJDNielKalimba) - 8-key Kalimba SoundFont for SF2 synths, it also contains tremolo Kalimba bank.
 - [BJDNielPercussions](https://github.com/YGGDRASIL-STUDIO/BJDNielSounds/tree/main/BJDNielPercussions) - Percussion Pack for SFZ synths and Hydrogen drum machine.
 - [BJDNielRajiao](https://github.com/YGGDRASIL-STUDIO/BJDNielSounds/tree/main/BJDNielRajiao) - 4-String Arp-Bass SoundFont based on Miniature Ukulele.
-- BJDNielGorgon - Loop samples for sound sampler, and SoundFont for SF2 synths.
+- [BJDNielGorgon](https://github.com/YGGDRASIL-STUDIO/BJDNielSounds/tree/main/BJDNielGorgon) - Sexual loop samples for sound sampler, and SoundFont for SF2 synths.
 
 >Not just samples, all instruments are **ready to use**.
 
@@ -29,7 +37,7 @@ Please visit here if you want your **[Niel](https://s.click.aliexpress.com/e/_oD
 
 ###### TODO
 
-- [ ] BJDNielGorgon
+- [x] BJDNielGorgon
 - [x] BJDNielKalimba
 - [x] BJDNielPercussions
 - [x] BJDNielRajiao
