@@ -4,9 +4,7 @@
 
 **BJDNielRajiao** is one of the **BJDNielSounds** collection created with BJD **Niel**, a witch, session player and psychotherapist for GoldRock.
 
->_After her father died, **Jeanne** became a friend of **Niel**. They played **Kalimba** and **rajão**, and sang together. So they can soothe each other._
->
->_But Niel knows, Jeanne can't stay here forever. Jeanne also knows, she can't take Niel to her war._
+>_After her father died, **Jeanne** became a friend of **Niel**. They played **Kalimba** and **rajão**, and sang together. So they can soothe each other. But Niel knows, Jeanne can't stay here forever. Jeanne also knows, she can't take Niel to her war._
 
 _[Continue in the next chapter...](https://github.com/YGGDRASIL-STUDIO/BJDNielSounds/tree/main/BJDNielPercussions)_
 
