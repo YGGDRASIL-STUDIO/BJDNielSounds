@@ -24,8 +24,8 @@
             <Sustain>1</Sustain>
             <Release>1000</Release>
             <muteGroup>-1</muteGroup>
-			<midiOutChannel>-1</midiOutChannel>
-			<midiOutNote>12</midiOutNote>
+            <midiOutChannel>-1</midiOutChannel>
+            <midiOutNote>12</midiOutNote>
             <layer>
                 <filename>KickStompTray.wav</filename>
                 <min>0</min>
@@ -51,8 +51,8 @@
             <Sustain>1</Sustain>
             <Release>1000</Release>
             <muteGroup>-1</muteGroup>
-			<midiOutChannel>-1</midiOutChannel>
-			<midiOutNote>14</midiOutNote>
+            <midiOutChannel>-1</midiOutChannel>
+            <midiOutNote>14</midiOutNote>
             <layer>
                 <filename>KickStompPrinter.wav</filename>
                 <min>0</min>
@@ -78,8 +78,8 @@
             <Sustain>1</Sustain>
             <Release>1000</Release>
             <muteGroup>-1</muteGroup>
-			<midiOutChannel>-1</midiOutChannel>
-			<midiOutNote>16</midiOutNote>
+            <midiOutChannel>-1</midiOutChannel>
+            <midiOutNote>16</midiOutNote>
             <layer>
                 <filename>KickStompDesk.wav</filename>
                 <min>0</min>
@@ -105,8 +105,8 @@
             <Sustain>1</Sustain>
             <Release>1000</Release>
             <muteGroup>-1</muteGroup>
-			<midiOutChannel>-1</midiOutChannel>
-			<midiOutNote>13</midiOutNote>
+            <midiOutChannel>-1</midiOutChannel>
+            <midiOutNote>13</midiOutNote>
             <layer>
                 <filename>UkeSpike.wav</filename>
                 <min>0</min>
@@ -132,8 +132,8 @@
             <Sustain>1</Sustain>
             <Release>1000</Release>
             <muteGroup>-1</muteGroup>
-			<midiOutChannel>-1</midiOutChannel>
-			<midiOutNote>15</midiOutNote>
+            <midiOutChannel>-1</midiOutChannel>
+            <midiOutNote>15</midiOutNote>
             <layer>
                 <filename>TapDance.wav</filename>
                 <min>0</min>
@@ -159,8 +159,8 @@
             <Sustain>1</Sustain>
             <Release>1000</Release>
             <muteGroup>-1</muteGroup>
-			<midiOutChannel>-1</midiOutChannel>
-			<midiOutNote>17</midiOutNote>
+            <midiOutChannel>-1</midiOutChannel>
+            <midiOutNote>17</midiOutNote>
             <layer>
                 <filename>Clap.wav</filename>
                 <min>0</min>
@@ -186,8 +186,8 @@
             <Sustain>1</Sustain>
             <Release>1000</Release>
             <muteGroup>-1</muteGroup>
-			<midiOutChannel>-1</midiOutChannel>
-			<midiOutNote>19</midiOutNote>
+            <midiOutChannel>-1</midiOutChannel>
+            <midiOutNote>19</midiOutNote>
             <layer>
                 <filename>Clap.wav</filename>
                 <min>0</min>
@@ -213,8 +213,8 @@
             <Sustain>1</Sustain>
             <Release>1000</Release>
             <muteGroup>-1</muteGroup>
-			<midiOutChannel>-1</midiOutChannel>
-			<midiOutNote>21</midiOutNote>
+            <midiOutChannel>-1</midiOutChannel>
+            <midiOutNote>21</midiOutNote>
             <layer>
                 <filename>Clap.wav</filename>
                 <min>0</min>
@@ -240,8 +240,8 @@
             <Sustain>1</Sustain>
             <Release>1000</Release>
             <muteGroup>-1</muteGroup>
-			<midiOutChannel>-1</midiOutChannel>
-			<midiOutNote>23</midiOutNote>
+            <midiOutChannel>-1</midiOutChannel>
+            <midiOutNote>23</midiOutNote>
             <layer>
                 <filename>Clap.wav</filename>
                 <min>0</min>
@@ -267,8 +267,8 @@
             <Sustain>1</Sustain>
             <Release>1000</Release>
             <muteGroup>-1</muteGroup>
-			<midiOutChannel>-1</midiOutChannel>
-			<midiOutNote>18</midiOutNote>
+            <midiOutChannel>-1</midiOutChannel>
+            <midiOutNote>18</midiOutNote>
             <layer>
                 <filename>JointStretch.wav</filename>
                 <min>0</min>
@@ -294,8 +294,8 @@
             <Sustain>1</Sustain>
             <Release>1000</Release>
             <muteGroup>-1</muteGroup>
-			<midiOutChannel>-1</midiOutChannel>
-			<midiOutNote>20</midiOutNote>
+            <midiOutChannel>-1</midiOutChannel>
+            <midiOutNote>20</midiOutNote>
             <layer>
                 <filename>Chew.wav</filename>
                 <min>0</min>
@@ -321,8 +321,8 @@
             <Sustain>1</Sustain>
             <Release>1000</Release>
             <muteGroup>-1</muteGroup>
-			<midiOutChannel>-1</midiOutChannel>
-			<midiOutNote>22</midiOutNote>
+            <midiOutChannel>-1</midiOutChannel>
+            <midiOutNote>22</midiOutNote>
             <layer>
                 <filename>RhythmRing.wav</filename>
                 <min>0</min>
@@ -348,8 +348,8 @@
             <Sustain>1</Sustain>
             <Release>1000</Release>
             <muteGroup>-1</muteGroup>
-			<midiOutChannel>-1</midiOutChannel>
-			<midiOutNote>25</midiOutNote>
+            <midiOutChannel>-1</midiOutChannel>
+            <midiOutNote>25</midiOutNote>
             <layer>
                 <filename>WaistNutLeft.wav</filename>
                 <min>0</min>
@@ -375,8 +375,8 @@
             <Sustain>1</Sustain>
             <Release>1000</Release>
             <muteGroup>-1</muteGroup>
-			<midiOutChannel>-1</midiOutChannel>
-			<midiOutNote>27</midiOutNote>
+            <midiOutChannel>-1</midiOutChannel>
+            <midiOutNote>27</midiOutNote>
             <layer>
                 <filename>WaistNutRight.wav</filename>
                 <min>0</min>
