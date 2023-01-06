@@ -1,6 +1,6 @@
 # BJDNielSounds
 
-![BJDNielSounds](https://github.com/YGGDRASIL-STUDIO/BJDNielSounds/blob/main/images/BJDNielSounds.png)
+![BJDNielSounds](images/BJDNielSounds.png)
 
 **BJDNielSounds** is an sound collection created with BJD(Ball-Jointed Doll) **Niel**, a witch, session player and psychotherapist for GoldRock.
 
@@ -16,10 +16,10 @@ _[Continue in the next chapter...](https://github.com/YGGDRASIL-STUDIO/BJDNielSo
 
 ## Instruments
 
-- [BJDNielKalimba](https://github.com/YGGDRASIL-STUDIO/BJDNielSounds/tree/main/BJDNielKalimba) - 8-key Kalimba SoundFont for SF2 synths, it also contains tremolo Kalimba bank.
-- [BJDNielRajiao](https://github.com/YGGDRASIL-STUDIO/BJDNielSounds/tree/main/BJDNielRajiao) - 4-String Arp-Bass SoundFont based on Miniature Ukulele.
-- [BJDNielPercussions](https://github.com/YGGDRASIL-STUDIO/BJDNielSounds/tree/main/BJDNielPercussions) - Percussion Pack for SFZ synths and Hydrogen drum machine.
-- [BJDNielGorgon](https://github.com/YGGDRASIL-STUDIO/BJDNielSounds/tree/main/BJDNielGorgon) - Sexual loop impulse samples for sound sampler, and SoundFont for SF2 synths.
+- [BJDNielKalimba](BJDNielKalimba) - 8-key Kalimba SoundFont for SF2 synths, it also contains tremolo Kalimba bank.
+- [BJDNielRajiao](BJDNielRajiao) - 4-String Arp-Bass SoundFont based on Miniature Ukulele.
+- [BJDNielPercussions](BJDNielPercussions) - Percussion Pack for SFZ synths and Hydrogen drum machine.
+- [BJDNielGorgon](BJDNielGorgon) - Sexual loop impulse samples for sound sampler, and SoundFont for SF2 synths.
 
 >Not just samples, all instruments are **ready to use**.
 
