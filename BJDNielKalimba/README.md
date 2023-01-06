@@ -16,7 +16,7 @@ _[Continue in the next chapter...](https://github.com/YGGDRASIL-STUDIO/BJDNielSo
 
 **BJDNielKalimba** is a 2-bank SoundFont including kalimba and tremolo kalimba. This virtual kalimba instrument is available with **[SF2 synths](https://www.fluidsynth.org/)**.
 
-All sound samples are **24bit**, **192Kbps WAV** format. Panning applied on the each notes. With mixing from 100 velocities, its sounds will close to the volume of -12dBFS.
+All sound samples are **24bit**, **192Kbps WAV** format. Panning applied on the each notes. With mixing from 100 velocities, its sounds will close to the volume of -12dBFS. The key range is C5~C6.
 
 ## Usage
 
