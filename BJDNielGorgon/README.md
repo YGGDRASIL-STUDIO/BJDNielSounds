@@ -12,9 +12,11 @@
 
 ## Specification
 
-**BJDNielGorgon** is a sexual loop samples available with sound sampler and **[SoundFont synths](https://www.fluidsynth.org/)**. The loops includes some sound samples such as vibrator, licking the Elfs vulva, and the Gorgons spike. **This loops is not made by abusing Niel.**
+**BJDNielGorgon** is a sexual loop impulse samples available with sound sampler and **[SoundFont synths](https://www.fluidsynth.org/)**. The loops includes three sound samples such as vibrator and the Gorgons spike.
 
-All sound samples are made with **24bit**, **192Kbps WAV** format.
+All sound samples are made with **24bit**, **192Kbps WAV** format. The SoundFont root key is 36, 38, 39, and the key range is 24-127.
+
+**This loops is not made by abusing Niel.**
 
 ## Usage
 
@@ -33,7 +35,7 @@ All sound samples are made with **24bit**, **192Kbps WAV** format.
 ###### Tested With
 
 - M-Vave SMK-25
-- [Ardour](https://ardour.org/), [ACE plugins](https://manual.ardour.org/plugins-filters/), [EasySSP](https://au.tomatl.org/)
+- [Ardour](https://ardour.org/), [ACE plugins](https://manual.ardour.org/plugins-filters/), [ChowCentaur](https://github.com/jatinchowdhury18/KlonCentaur), [ChowMatrix](https://github.com/Chowdhury-DSP/ChowMatrix), [EasySSP](https://au.tomatl.org/)
 
 _BJDNielSounds :copyright: 2023 by Yi Yunseok is licensed under **[CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)**. Made with :heart: and **[Niel](https://s.click.aliexpress.com/e/_oDj63f7)**, proudly hosted on **[GitHub](https://github.com/)**._
 
