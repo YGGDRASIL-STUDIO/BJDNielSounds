@@ -2,7 +2,7 @@
 
 ![BJDNielPercussions](../images/BJDNielPercussions.png)
 
-_Doll Kitchen Toy Old Image by [Stefan Schweihofer](https://pixabay.com/users/stux-12364/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=546613)</a> from [Pixabay](https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=546613)._
+_Doll Kitchen Toy Old Image by [Stefan Schweihofer](https://pixabay.com/users/stux-12364/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=546613) from [Pixabay](https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=546613)._
 
 **BJDNielPercussions** is one of the **BJDNielSounds** collection created with BJD **Niel**, a witch, session player and psychotherapist for GoldRock.
 
