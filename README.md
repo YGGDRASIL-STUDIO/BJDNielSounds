@@ -2,6 +2,8 @@
 
 ![BJDNielSounds](images/BJDNielSounds.png)
 
+![GitHub Page](actions/workflows/jekyll-gh-pages.yml/badge.svg)
+
 **BJDNielSounds** is an sound collection created with BJD(Ball-Jointed Doll) **Niel**, a witch, session player and psychotherapist for GoldRock.
 
 >_This is the story of **Niel**, a witch, who defeated **Gorgon** and protected the **Poet's Village**._
