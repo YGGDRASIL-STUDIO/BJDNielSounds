@@ -50,9 +50,9 @@ Please visit here if you want your **[Niel](https://s.click.aliexpress.com/e/_oD
 - [x] Publish on itch
 - [x] Publish on Polyphone
 - [ ] Publish on KVR
-- [ ] Publish on Bandcamp
+- [x] Publish on Bandcamp
 - [ ] Publish on Myspace
-- [ ] Publish on SoundCloud
+- [x] Publish on SoundCloud
 - [ ] Publish on Hydrogen Forum
 - [ ] Publish on sfz instruments
 
