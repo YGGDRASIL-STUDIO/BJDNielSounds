@@ -47,8 +47,8 @@ Please visit here if you want your **[Niel](https://s.click.aliexpress.com/e/_oD
 - [x] BJDNielPercussions
 - [x] BJDNielRajiao
 - [x] GitHub Page
-- [ ] Publish on itch
-- [ ] Publish on Polyphone
+- [x] Publish on itch
+- [x] Publish on Polyphone
 - [ ] Publish on KVR
 - [ ] Publish on Bandcamp
 - [ ] Publish on Myspace
