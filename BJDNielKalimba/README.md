@@ -20,7 +20,7 @@ All sound samples are **24bit**, **192Kbps WAV** format. Panning applied on the 
 
 ## Usage
 
-- Download `BJDNielKalimba.tar.gz` on Releases, extract where you want, then import `BJDNielKalimba.sf2`.
+- Download `BJDNielKalimba.tar.gz` on [Releases](https://github.com/YGGDRASIL-STUDIO/BJDNielSounds/releases/tag/v1.0.0), extract where you want, then import `BJDNielKalimba.sf2`.
 
 ## Made in Korea, Republic of.
 

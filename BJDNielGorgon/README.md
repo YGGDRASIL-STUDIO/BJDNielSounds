@@ -20,7 +20,7 @@ All sound samples are made with **24bit**, **192Kbps WAV** format. The SoundFont
 
 ## Usage
 
-- Download `BJDNielGorgon.tar.gz` on Releases, extract where you want, then import the samples on your sampler or import `BJDNielGorgon.sf2` on your SoundFont synth.
+- Download `BJDNielGorgon.tar.gz` on [Releases](https://github.com/YGGDRASIL-STUDIO/BJDNielSounds/releases/tag/v1.0.0), extract where you want, then import the samples on your sampler or import `BJDNielGorgon.sf2` on your SoundFont synth.
 
 ## Made in Korea, Republic of.
 

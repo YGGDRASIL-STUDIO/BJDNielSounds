@@ -19,7 +19,7 @@ This instrument was made from one sound sample with **24bit**, **192Kbps WAV** f
 
 ## Usage
 
-- Download `BJDNielRajiao.tar.gz` on Releases, extract where you want, then import `BJDNielRajiao.sf2`.
+- Download `BJDNielRajiao.tar.gz` on [Releases](https://github.com/YGGDRASIL-STUDIO/BJDNielSounds/releases/tag/v1.0.0), extract where you want, then import `BJDNielRajiao.sf2`.
 
 ## Made in Korea, Republic of.
 
