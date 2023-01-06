@@ -4,6 +4,9 @@
 
 ![GitHub Page](https://github.com/YGGDRASIL-STUDIO/BJDNielSounds/actions/workflows/jekyll-gh-pages.yml/badge.svg) ![Downloads](https://img.shields.io/github/downloads/YGGDRASIL-STUDIO/BJDNielSounds/total) ![Release](https://img.shields.io/github/v/release/YGGDRASIL-STUDIO/BJDNielSounds) ![Release Date](https://img.shields.io/github/release-date/YGGDRASIL-STUDIO/BJDNielSounds) ![Repo Size](https://img.shields.io/github/repo-size/YGGDRASIL-STUDIO/BJDNielSounds) ![Stars](https://img.shields.io/github/stars/YGGDRASIL-STUDIO/BJDNielSounds) ![Watchers](https://img.shields.io/github/watchers/YGGDRASIL-STUDIO/BJDNielSounds)
 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white) ![Sound Cloud](https://img.shields.io/badge/sound%20cloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white) ![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white) ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
+
+
 **BJDNielSounds** is an sound collection created with BJD(Ball-Jointed Doll) **Niel**, a witch, session player and psychotherapist for GoldRock.
 
 >_This is the story of **Niel**, a witch, who defeated **Gorgon** and protected the **Poet's Village**._
@@ -50,5 +53,7 @@ Please visit here if you want your **[Niel](https://s.click.aliexpress.com/e/_oD
 - [ ] Publish on Bandcamp
 - [ ] Publish on Myspace
 - [ ] Publish on SoundCloud
+
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white) ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 _BJDNielSounds :copyright: 2023 by Yi Yunseok is licensed under **[CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)**. Made with :heart: and **[Niel](https://s.click.aliexpress.com/e/_oDj63f7)**, proudly hosted on **[GitHub](https://github.com/)**._
