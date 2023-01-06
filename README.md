@@ -2,7 +2,7 @@
 
 ![BJDNielSounds](images/BJDNielSounds.png)
 
-![GitHub Page](https://github.com/YGGDRASIL-STUDIO/BJDNielSounds/actions/workflows/jekyll-gh-pages.yml/badge.svg) ![Website](https://img.shields.io/website?url=https%3A%2F%2FYGGDRASIL-STUDIO.github.io%2FBJDNielSounds) ![Downloads](https://img.shields.io/github/downloads/YGGDRASIL-STUDIO/BJDNielSounds/total) ![Release](https://img.shields.io/github/v/release/YGGDRASIL-STUDIO/BJDNielSounds) ![Release Date](https://img.shields.io/github/release-date/YGGDRASIL-STUDIO/BJDNielSounds) ![Repo Size](https://img.shields.io/github/repo-size/YGGDRASIL-STUDIO/BJDNielSounds) ![License](https://img.shields.io/github/license/YGGDRASIL-STUDIO/BJDNielSounds?label=CC-BY-SA%204.0) ![Stars](https://img.shields.io/github/stars/YGGDRASIL-STUDIO/BJDNielSounds) ![Watchers](https://img.shields.io/github/watchers/YGGDRASIL-STUDIO/BJDNielSounds)
+![GitHub Page](https://github.com/YGGDRASIL-STUDIO/BJDNielSounds/actions/workflows/jekyll-gh-pages.yml/badge.svg) ![Downloads](https://img.shields.io/github/downloads/YGGDRASIL-STUDIO/BJDNielSounds/total) ![Release](https://img.shields.io/github/v/release/YGGDRASIL-STUDIO/BJDNielSounds) ![Release Date](https://img.shields.io/github/release-date/YGGDRASIL-STUDIO/BJDNielSounds) ![Repo Size](https://img.shields.io/github/repo-size/YGGDRASIL-STUDIO/BJDNielSounds) ![Stars](https://img.shields.io/github/stars/YGGDRASIL-STUDIO/BJDNielSounds) ![Watchers](https://img.shields.io/github/watchers/YGGDRASIL-STUDIO/BJDNielSounds)
 
 **BJDNielSounds** is an sound collection created with BJD(Ball-Jointed Doll) **Niel**, a witch, session player and psychotherapist for GoldRock.
 
