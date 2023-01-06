@@ -46,7 +46,7 @@ Download `BJDNielPercussions.tar.gz` archive on [Releases](https://github.com/YG
 
 - **Niel** and Yi Yunseok
 - Rhythm Ring(NAMM Show 2010), African Dora Fruit Nutshell Handbell
-- GrindMonkey Custom MiniUke, XZT trays, EasyDrawing ED22, Desk
+- GrindMonkey Custom MiniUke, XZT Mouse Tray, EasyDrawing ED22, Desk
 - Raspberry Pi, PiSound, Behringer Micro series and Monitor1
 - Musicus B-free2.0, Audio-Technica AT2035, OneOdio Pro-50
 - [RasPiOS](https://www.raspberrypi.com/software/), [Audacity](https://www.audacityteam.org/), [Cava](https://github.com/karlstav/cava), [dir2hydrogen](https://github.com/freqrush/dir2hydrogen), [Xed](https://github.com/linuxmint/xed)
