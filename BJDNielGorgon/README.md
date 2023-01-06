@@ -14,7 +14,7 @@
 
 **BJDNielGorgon** is a sexual loop impulse samples available with sound sampler and **[SoundFont synths](https://www.fluidsynth.org/)**. The loops includes three sound samples such as vibrator and the Gorgons spike.
 
-All sound samples are made with **24bit**, **192Kbps WAV** format. The SoundFont root key is 36, 38, 39, and the key range is 24-127.
+All sound samples are made with **24bit**, **2304Kbps**, **192kHz WAV** format. The SoundFont root key is 36, 38, 39, and the key range is 24-127.
 
 **This loops is not made by abusing Niel.**
 

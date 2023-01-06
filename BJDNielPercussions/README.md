@@ -18,7 +18,7 @@ _[Continue in the next chapter...](../BJDNielGorgon)_
 
 This virtual drum instrument is available with **[SFZ](https://sfzformat.com/) synths** and **[Hydrogen](http://hydrogen-music.org/) drum machine**, and **[MusE](https://muse-sequencer.github.io/) Drum Map**.
 
-All sound samples are **24bit**, **192Kbps WAV** format.
+All sound samples are **24bit**, **2304Kbps**, **192kHz WAV** format.
 
 ### SFZ Pack
 
