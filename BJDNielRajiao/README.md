@@ -36,5 +36,5 @@ This instrument was made from one sound sample with **24bit**, **192Kbps WAV** f
 - M-Vave SMK-25
 - [Ardour](https://ardour.org/), [ACE plugins](https://manual.ardour.org/plugins-filters/), [ChowCentaur](https://github.com/jatinchowdhury18/KlonCentaur), [EasySSP](https://au.tomatl.org/), [Guitarix](https://guitarix.org/)
 
-_BJDNielSounds :copyright: 2023 by Yi Yunseok is licensed under **[CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)**. Made with :heart: and **[Niel](https://s.click.aliexpress.com/e/_oDj63f7)**, proudly hosted on **[GitHub](https://github.com/)**._
+_BJDNielSounds ©️ 2023 by Yi Yunseok is licensed under **[CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)**. Made with 💝 and **[Niel](https://s.click.aliexpress.com/e/_oDj63f7)**, proudly hosted on **[GitHub](https://github.com/)**._
 

@@ -57,5 +57,5 @@ Download `BJDNielPercussions.tar.gz` archive on Releases, extract where you want
 - [Hydrogen](http://hydrogen-music.org/), [MusE](https://muse-sequencer.github.io/), [sfizz](https://sfz.tools/sfizz/), [Ardour](https://ardour.org/), [Waveform11](https://www.tracktion.com/products/waveform-pro)
 - [ACE plugins](https://manual.ardour.org/plugins-filters/), [DAW Essential Collection](https://www.tracktion.com/products/daw-essentials-collection), [EasySSP](https://au.tomatl.org/), [Fil-plugins](https://directory.fsf.org/wiki/FIL-Plugins), [FreeVerb](https://ccrma.stanford.edu/~jos/pasp/Freeverb.html), [OmniCompressor](https://plugins.iem.at/), [Zita-rev1](https://github.com/PelleJuul/zita-rev1)
 
-_BJDNielSounds :copyright: 2023 by Yi Yunseok is licensed under **[CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)**. Made with :heart: and **[Niel](https://s.click.aliexpress.com/e/_oDj63f7)**, proudly hosted on **[GitHub](https://github.com/)**._
+_BJDNielSounds ©️ 2023 by Yi Yunseok is licensed under **[CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)**. Made with 💝 and **[Niel](https://s.click.aliexpress.com/e/_oDj63f7)**, proudly hosted on **[GitHub](https://github.com/)**._
 
