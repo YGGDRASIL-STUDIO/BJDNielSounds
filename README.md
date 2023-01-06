@@ -12,7 +12,7 @@
 >
 >_By the time she became a naughty girl, Tracey taught her astrology and flame magic spells, self-defense techniques, some instruments._
 
-_[Continue in the next chapter...](https://github.com/YGGDRASIL-STUDIO/BJDNielSounds/tree/main/BJDNielKalimba)_
+_[Continue in the next chapter...](BJDNielKalimba)_
 
 ## Instruments
 
@@ -41,7 +41,7 @@ Please visit here if you want your **[Niel](https://s.click.aliexpress.com/e/_oD
 - [x] BJDNielKalimba
 - [x] BJDNielPercussions
 - [x] BJDNielRajiao
-- [ ] GitHub Page
+- [x] GitHub Page
 - [ ] Publish on itch
 - [ ] Publish on Polyphone
 - [ ] Publish on KVR

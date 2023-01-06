@@ -1,6 +1,6 @@
 # BJDNielGorgon
 
-![BJDNielGorgon](https://github.com/YGGDRASIL-STUDIO/BJDNielSounds/blob/main/images/BJDNielGorgon.png)
+![BJDNielGorgon](../images/BJDNielGorgon.png)
 
 **BJDNielGorgon** is one of the **BJDNielSounds** collection created with BJD **Niel**, a witch, session player and psychotherapist for GoldRock.
 

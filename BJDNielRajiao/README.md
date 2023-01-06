@@ -1,6 +1,6 @@
 # BJDNielRajiao
 
-![BJDNielRajiao](https://github.com/YGGDRASIL-STUDIO/BJDNielSounds/blob/main/images/BJDNielRajiao.png)
+![BJDNielRajiao](../images/BJDNielRajiao.png)
 
 **BJDNielRajiao** is one of the **BJDNielSounds** collection created with BJD **Niel**, a witch, session player and psychotherapist for GoldRock.
 
@@ -8,7 +8,7 @@
 >
 >_But Niel knows, Jeanne can't stay here forever. Jeanne also knows, she can't take Niel to her war._
 
-_[Continue in the next chapter...](https://github.com/YGGDRASIL-STUDIO/BJDNielSounds/tree/main/BJDNielPercussions)_
+_[Continue in the next chapter...](../BJDNielPercussions)_
 
 ## Specification
 

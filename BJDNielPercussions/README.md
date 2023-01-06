@@ -1,6 +1,6 @@
 # BJDNielPercussions
 
-![BJDNielPercussions](https://github.com/YGGDRASIL-STUDIO/BJDNielSounds/blob/main/images/BJDNielPercussions.png)
+![BJDNielPercussions](../images/BJDNielPercussions.png)
 
 _Doll Kitchen Toy Old Image by [Stefan Schweihofer](https://pixabay.com/users/stux-12364/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=546613)</a> from [Pixabay](https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=546613)._
 
@@ -10,7 +10,7 @@ _Doll Kitchen Toy Old Image by [Stefan Schweihofer](https://pixabay.com/users/st
 > 
 >_On the last night, even the moon is hidden in the clouds, she cried, and smashed her **rajão**, finally burned the village. In the burning flames, the villager muttered, watching her leaving with the lamp, **"That bitch is a cursed witch."**_
 
-_[Continue in the next chapter...](https://github.com/YGGDRASIL-STUDIO/BJDNielSounds/tree/main/BJDNielGorgon)_
+_[Continue in the next chapter...](../BJDNielGorgon)_
 
 ## Specification
 

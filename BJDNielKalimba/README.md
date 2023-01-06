@@ -1,6 +1,6 @@
 # BJDNielKalimba
 
-![BJDNielKalimba](https://github.com/YGGDRASIL-STUDIO/BJDNielSounds/blob/main/images/BJDNielKalimba.png)
+![BJDNielKalimba](../images/BJDNielKalimba.png)
 
 **BJDNielKalimba** is one of the **BJDNielSounds** collection created with BJD **Niel**, a witch, session player and psychotherapist for GoldRock.
 
@@ -10,7 +10,7 @@
 >
 >_But, despite their efforts, the father eventually passed away._
 
-_[Continue in the next chapter...](https://github.com/YGGDRASIL-STUDIO/BJDNielSounds/tree/main/BJDNielRajiao)_
+_[Continue in the next chapter...](../BJDNielRajiao)_
 
 ## Specification
 
