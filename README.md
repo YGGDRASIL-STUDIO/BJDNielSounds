@@ -47,15 +47,15 @@ Please visit here if you want your **[Niel](https://s.click.aliexpress.com/e/_oD
 - [x] BJDNielPercussions
 - [x] BJDNielRajiao
 - [x] GitHub Page
-- [x] Publish on itch
-- [x] Publish on Polyphone
+- [x] Publish on [itch](https://yggdrasilstudio.itch.io/bjdnielsounds)
+- [x] Publish on [Polyphone](https://www.polyphone-soundfonts.com/documents/10-pianos/639-bjdnielkalimba)
 - [ ] Publish on KVR
-- [x] Publish on Bandcamp
+- [x] Publish on [Bandcamp](https://yggdrasilstudio.bandcamp.com/track/bjdnielsounds-very-short-loop-example)
 - [ ] ~~Publish on Myspace~~
-- [x] Publish on SoundCloud
-- [x] Publish on Hydrogen Forum
+- [x] Publish on [SoundCloud](https://soundcloud.com/yi-yunseok/bjdnielsounds-very-short-loop-example)
+- [x] Publish on [Hydrogen Forum](https://github.com/hydrogen-music/hydrogen/discussions/1700)
 - [ ] Publish on sfz instruments
-- [x] Publish on Internet Archive
+- [x] Publish on [Internet Archive](https://archive.org/details/BJDNielSounds)
 
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
