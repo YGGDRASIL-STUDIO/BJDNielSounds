@@ -51,10 +51,11 @@ Please visit here if you want your **[Niel](https://s.click.aliexpress.com/e/_oD
 - [x] Publish on Polyphone
 - [ ] Publish on KVR
 - [x] Publish on Bandcamp
-- [ ] Publish on Myspace
+- [ ] ~~Publish on Myspace~~
 - [x] Publish on SoundCloud
-- [ ] Publish on Hydrogen Forum
+- [x] Publish on Hydrogen Forum
 - [ ] Publish on sfz instruments
+- [x] Publish on Internet Archive
 
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
