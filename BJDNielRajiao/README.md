@@ -11,7 +11,7 @@
 _[Continue in the next chapter...](../BJDNielPercussions)_
 
 ## Specification
-h
+
 **BJDNielRajiao** is a 4-String Arp-Bass SoundFont based on Miniature Ukulele. This virtual instrument is available with **[SF2 synths](https://www.fluidsynth.org/)**. Note this is **not an actual rajão** instrument.
 
 This instrument was made from one sound sample with **24bit**, **2304Kbps**, **192kHz WAV** format.
