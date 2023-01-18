@@ -7,7 +7,7 @@
     <imageLicense>CC-BY-SA 4.0</imageLicense>
     <imageAuthor>Yi Yunseok &lt;ironyunseok@protonmail.com&gt;</imageAuthor>
     <instrumentList>
-		<instrument>
+        <instrument>
             <id>0</id>
             <name>KickStompTray</name>
             <volume>1</volume>
