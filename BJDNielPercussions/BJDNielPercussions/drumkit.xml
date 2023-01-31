@@ -230,7 +230,6 @@
    <volume>1</volume>
    <isMuted>false</isMuted>
    <isSoloed>false</isSoloed>
-   <pan>-0.3</pan>
    <pan_L>1</pan_L>
    <pan_R>0.7</pan_R>
    <pitchOffset>0</pitchOffset>
@@ -274,7 +273,6 @@
    <volume>1</volume>
    <isMuted>false</isMuted>
    <isSoloed>false</isSoloed>
-   <pan>0.3</pan>
    <pan_L>0.7</pan_L>
    <pan_R>1</pan_R>
    <pitchOffset>0</pitchOffset>
@@ -318,7 +316,6 @@
    <volume>1</volume>
    <isMuted>false</isMuted>
    <isSoloed>false</isSoloed>
-   <pan>-0.5</pan>
    <pan_L>1</pan_L>
    <pan_R>0.5</pan_R>
    <pitchOffset>0</pitchOffset>
@@ -362,7 +359,6 @@
    <volume>1</volume>
    <isMuted>false</isMuted>
    <isSoloed>false</isSoloed>
-   <pan>0.5</pan>
    <pan_L>0.5</pan_L>
    <pan_R>1</pan_R>
    <pitchOffset>0</pitchOffset>
