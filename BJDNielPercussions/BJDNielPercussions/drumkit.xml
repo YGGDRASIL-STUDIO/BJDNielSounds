@@ -19,8 +19,9 @@
    <name>KickStompTray</name>
    <volume>1</volume>
    <isMuted>false</isMuted>
-   <pan_L>1</pan_L>
-   <pan_R>1</pan_R>
+   <isSoloed>false</isSoloed>
+   <pan>0</pan>
+   <pitchOffset>0</pitchOffset>
    <randomPitchFactor>0</randomPitchFactor>
    <gain>1</gain>
    <applyVelocity>true</applyVelocity>
@@ -60,8 +61,9 @@
    <name>KickStompPrinter</name>
    <volume>1</volume>
    <isMuted>false</isMuted>
-   <pan_L>1</pan_L>
-   <pan_R>1</pan_R>
+   <isSoloed>false</isSoloed>
+   <pan>0</pan>
+   <pitchOffset>0</pitchOffset>
    <randomPitchFactor>0</randomPitchFactor>
    <gain>1</gain>
    <applyVelocity>true</applyVelocity>
@@ -101,8 +103,9 @@
    <name>KickStompDesk</name>
    <volume>1</volume>
    <isMuted>false</isMuted>
-   <pan_L>1</pan_L>
-   <pan_R>1</pan_R>
+   <isSoloed>false</isSoloed>
+   <pan>0</pan>
+   <pitchOffset>0</pitchOffset>
    <randomPitchFactor>0</randomPitchFactor>
    <gain>1</gain>
    <applyVelocity>true</applyVelocity>
@@ -142,8 +145,9 @@
    <name>UkeSpike</name>
    <volume>1</volume>
    <isMuted>false</isMuted>
-   <pan_L>1</pan_L>
-   <pan_R>1</pan_R>
+   <isSoloed>false</isSoloed>
+   <pan>0</pan>
+   <pitchOffset>0</pitchOffset>
    <randomPitchFactor>0</randomPitchFactor>
    <gain>1</gain>
    <applyVelocity>true</applyVelocity>
@@ -183,8 +187,9 @@
    <name>TapDance</name>
    <volume>1</volume>
    <isMuted>false</isMuted>
-   <pan_L>1</pan_L>
-   <pan_R>1</pan_R>
+   <isSoloed>false</isSoloed>
+   <pan>0</pan>
+   <pitchOffset>0</pitchOffset>
    <randomPitchFactor>0</randomPitchFactor>
    <gain>1</gain>
    <applyVelocity>true</applyVelocity>
@@ -224,8 +229,11 @@
    <name>ClapLeft</name>
    <volume>1</volume>
    <isMuted>false</isMuted>
+   <isSoloed>false</isSoloed>
+   <pan>-0.3</pan>
    <pan_L>1</pan_L>
    <pan_R>0.7</pan_R>
+   <pitchOffset>0</pitchOffset>
    <randomPitchFactor>0</randomPitchFactor>
    <gain>1</gain>
    <applyVelocity>true</applyVelocity>
@@ -265,8 +273,11 @@
    <name>ClapRight</name>
    <volume>1</volume>
    <isMuted>false</isMuted>
+   <isSoloed>false</isSoloed>
+   <pan>0.3</pan>
    <pan_L>0.7</pan_L>
    <pan_R>1</pan_R>
+   <pitchOffset>0</pitchOffset>
    <randomPitchFactor>0</randomPitchFactor>
    <gain>1</gain>
    <applyVelocity>true</applyVelocity>
@@ -306,8 +317,11 @@
    <name>ClapLeftSide</name>
    <volume>1</volume>
    <isMuted>false</isMuted>
+   <isSoloed>false</isSoloed>
+   <pan>-0.5</pan>
    <pan_L>1</pan_L>
    <pan_R>0.5</pan_R>
+   <pitchOffset>0</pitchOffset>
    <randomPitchFactor>0</randomPitchFactor>
    <gain>1</gain>
    <applyVelocity>true</applyVelocity>
@@ -347,8 +361,11 @@
    <name>ClapRightSide</name>
    <volume>1</volume>
    <isMuted>false</isMuted>
+   <isSoloed>false</isSoloed>
+   <pan>0.5</pan>
    <pan_L>0.5</pan_L>
    <pan_R>1</pan_R>
+   <pitchOffset>0</pitchOffset>
    <randomPitchFactor>0</randomPitchFactor>
    <gain>1</gain>
    <applyVelocity>true</applyVelocity>
@@ -388,8 +405,9 @@
    <name>JointStretch</name>
    <volume>1</volume>
    <isMuted>false</isMuted>
-   <pan_L>1</pan_L>
-   <pan_R>1</pan_R>
+   <isSoloed>false</isSoloed>
+   <pan>0</pan>
+   <pitchOffset>0</pitchOffset>
    <randomPitchFactor>0</randomPitchFactor>
    <gain>1</gain>
    <applyVelocity>true</applyVelocity>
@@ -429,8 +447,9 @@
    <name>Chew</name>
    <volume>1</volume>
    <isMuted>false</isMuted>
-   <pan_L>1</pan_L>
-   <pan_R>1</pan_R>
+   <isSoloed>false</isSoloed>
+   <pan>0</pan>
+   <pitchOffset>0</pitchOffset>
    <randomPitchFactor>0</randomPitchFactor>
    <gain>1</gain>
    <applyVelocity>true</applyVelocity>
@@ -470,8 +489,9 @@
    <name>RhythmRing</name>
    <volume>1</volume>
    <isMuted>false</isMuted>
-   <pan_L>1</pan_L>
-   <pan_R>1</pan_R>
+   <isSoloed>false</isSoloed>
+   <pan>0</pan>
+   <pitchOffset>0</pitchOffset>
    <randomPitchFactor>0</randomPitchFactor>
    <gain>1</gain>
    <applyVelocity>true</applyVelocity>
@@ -511,8 +531,9 @@
    <name>WaistNutLeft</name>
    <volume>1</volume>
    <isMuted>false</isMuted>
-   <pan_L>1</pan_L>
-   <pan_R>1</pan_R>
+   <isSoloed>false</isSoloed>
+   <pan>0</pan>
+   <pitchOffset>0</pitchOffset>
    <randomPitchFactor>0</randomPitchFactor>
    <gain>1</gain>
    <applyVelocity>true</applyVelocity>
@@ -552,8 +573,9 @@
    <name>WaistNutRight</name>
    <volume>1</volume>
    <isMuted>false</isMuted>
-   <pan_L>1</pan_L>
-   <pan_R>1</pan_R>
+   <isSoloed>false</isSoloed>
+   <pan>0</pan>
+   <pitchOffset>0</pitchOffset>
    <randomPitchFactor>0</randomPitchFactor>
    <gain>1</gain>
    <applyVelocity>true</applyVelocity>
