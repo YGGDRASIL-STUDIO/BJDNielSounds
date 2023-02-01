@@ -20,8 +20,8 @@
    <volume>1</volume>
    <isMuted>false</isMuted>
    <isSoloed>false</isSoloed>
-   <pan_L>0</pan_L>
-   <pan_R>0</pan_R>
+   <pan_L>1</pan_L>
+   <pan_R>1</pan_R>
    <pitchOffset>0</pitchOffset>
    <randomPitchFactor>0</randomPitchFactor>
    <gain>1</gain>
@@ -63,8 +63,8 @@
    <volume>1</volume>
    <isMuted>false</isMuted>
    <isSoloed>false</isSoloed>
-   <pan_L>0</pan_L>
-   <pan_R>0</pan_R>
+   <pan_L>1</pan_L>
+   <pan_R>1</pan_R>
    <pitchOffset>0</pitchOffset>
    <randomPitchFactor>0</randomPitchFactor>
    <gain>1</gain>
@@ -106,8 +106,8 @@
    <volume>1</volume>
    <isMuted>false</isMuted>
    <isSoloed>false</isSoloed>
-   <pan_L>0</pan_L>
-   <pan_R>0</pan_R>
+   <pan_L>1</pan_L>
+   <pan_R>1</pan_R>
    <pitchOffset>0</pitchOffset>
    <randomPitchFactor>0</randomPitchFactor>
    <gain>1</gain>
@@ -149,8 +149,8 @@
    <volume>1</volume>
    <isMuted>false</isMuted>
    <isSoloed>false</isSoloed>
-   <pan_L>0</pan_L>
-   <pan_R>0</pan_R>
+   <pan_L>1</pan_L>
+   <pan_R>1</pan_R>
    <pitchOffset>0</pitchOffset>
    <randomPitchFactor>0</randomPitchFactor>
    <gain>1</gain>
@@ -192,8 +192,8 @@
    <volume>1</volume>
    <isMuted>false</isMuted>
    <isSoloed>false</isSoloed>
-   <pan_L>0</pan_L>
-   <pan_R>0</pan_R>
+   <pan_L>1</pan_L>
+   <pan_R>1</pan_R>
    <pitchOffset>0</pitchOffset>
    <randomPitchFactor>0</randomPitchFactor>
    <gain>1</gain>
@@ -407,8 +407,8 @@
    <volume>1</volume>
    <isMuted>false</isMuted>
    <isSoloed>false</isSoloed>
-   <pan_L>0</pan_L>
-   <pan_R>0</pan_R>
+   <pan_L>1</pan_L>
+   <pan_R>1</pan_R>
    <pitchOffset>0</pitchOffset>
    <randomPitchFactor>0</randomPitchFactor>
    <gain>1</gain>
@@ -450,8 +450,8 @@
    <volume>1</volume>
    <isMuted>false</isMuted>
    <isSoloed>false</isSoloed>
-   <pan_L>0</pan_L>
-   <pan_R>0</pan_R>
+   <pan_L>1</pan_L>
+   <pan_R>1</pan_R>
    <pitchOffset>0</pitchOffset>
    <randomPitchFactor>0</randomPitchFactor>
    <gain>1</gain>
@@ -493,8 +493,8 @@
    <volume>1</volume>
    <isMuted>false</isMuted>
    <isSoloed>false</isSoloed>
-   <pan_L>0</pan_L>
-   <pan_R>0</pan_R>
+   <pan_L>1</pan_L>
+   <pan_R>1</pan_R>
    <pitchOffset>0</pitchOffset>
    <randomPitchFactor>0</randomPitchFactor>
    <gain>1</gain>
@@ -536,8 +536,8 @@
    <volume>1</volume>
    <isMuted>false</isMuted>
    <isSoloed>false</isSoloed>
-   <pan_L>0</pan_L>
-   <pan_R>0</pan_R>
+   <pan_L>1</pan_L>
+   <pan_R>1</pan_R>
    <pitchOffset>0</pitchOffset>
    <randomPitchFactor>0</randomPitchFactor>
    <gain>1</gain>
@@ -579,8 +579,8 @@
    <volume>1</volume>
    <isMuted>false</isMuted>
    <isSoloed>false</isSoloed>
-   <pan_L>0</pan_L>
-   <pan_R>0</pan_R>
+   <pan_L>1</pan_L>
+   <pan_R>1</pan_R>
    <pitchOffset>0</pitchOffset>
    <randomPitchFactor>0</randomPitchFactor>
    <gain>1</gain>
