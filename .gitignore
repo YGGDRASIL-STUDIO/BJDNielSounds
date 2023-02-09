@@ -3,6 +3,7 @@
 *.sf2
 *.sh
 *.pl
+*.txt
 *.tar.gz
 *.md5
 *.xcf
