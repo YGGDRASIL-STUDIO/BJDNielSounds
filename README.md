@@ -49,7 +49,7 @@ Please visit here if you want your **[Niel](https://s.click.aliexpress.com/e/_oD
 - [x] GitHub Page
 - [x] Publish on [itch](https://yggdrasilstudio.itch.io/bjdnielsounds)
 - [x] Publish on [Polyphone](https://www.polyphone-soundfonts.com/documents/10-pianos/639-bjdnielkalimba)
-- [ ] Publish on KVR
+- [ ] ~~Publish on KVR~~
 - [x] Publish on [Bandcamp](https://yggdrasilstudio.bandcamp.com/track/bjdnielsounds-very-short-loop-example)
 - [ ] ~~Publish on Myspace~~
 - [x] Publish on [SoundCloud](https://soundcloud.com/yi-yunseok/bjdnielsounds-very-short-loop-example)
